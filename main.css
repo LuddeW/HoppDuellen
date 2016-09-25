@@ -110,10 +110,21 @@
 		margin-right: auto;
 		text-align: center;
 		font-family: 'Lato', sans-serif;
+		margin-bottom: 300px;
 	}
 
 	.container h1{
 		text-align: center;
 		font-family: 'Lato', sans-serif;
 		font-size: 50px;
+	}
+
+	.nametext{
+		text-align: center;
+		max-width: 560px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.videobox{
+		margin-bottom: 300px;
 	}
